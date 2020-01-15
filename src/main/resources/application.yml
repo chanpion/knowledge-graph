@@ -1,0 +1,7 @@
+server:
+  port: 7878
+
+neo4j:
+  uri: 172.19.80.19
+  username: neo4j
+  password: 123456
